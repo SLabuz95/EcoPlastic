@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\viewmodel\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\viewmodel\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\logging\\exceptionsdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\logging\\exceptionsdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\logging\\exceptions.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\logging\\exceptions.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\overviewview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\overviewview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seba\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\repositoriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\repositoriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\viewmodel\\dialogs\\addlocalrepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\viewmodel\\dialogs\\addlocalrepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\utils\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\utils\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\messages\\messagerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\messages\\messagerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\viewmodel\\repositoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\viewmodel\\repositoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\messages\\datamessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\messages\\datamessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\extentions\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\extentions\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\viewmodel\\dialogs\\addexistingrepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\viewmodel\\dialogs\\addexistingrepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\viewmodel\\dialogs\\cloneremoterepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\viewmodel\\dialogs\\cloneremoterepositorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\addlocalrepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\addlocalrepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\repositoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\repositoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\branchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\branchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\gitcontroldialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\gitcontroldialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\addexistingrepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\addexistingrepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\50c53aa0685c1d0af3c6de513ca5769e82d30ebf\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\cloneremoterepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\cloneremoterepositoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\cloneremoterepositoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\cloneremoterepositoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\8ad016e10f775db05eb4ade9bbc053c2db692927\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\gitcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\gitcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\gitfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\gitfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|c:\\users\\seba\\source\\repos\\wpfapp1\\wpfapp1\\view\\dialogs\\addexistingrepositoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE759EE-35F7-4AF1-9A3A-014563327015}|WpfApp1\\GitControl.csproj|solutionrelative:wpfapp1\\view\\dialogs\\addexistingrepositoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:48:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exceptionsData.xml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Logging\\exceptionsData.xml",
+              "RelativeDocumentMoniker": "WpfApp1\\Logging\\exceptionsData.xml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Logging\\exceptionsData.xml",
+              "RelativeToolTip": "WpfApp1\\Logging\\exceptionsData.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T19:31:34.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exceptions.xml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Logging\\exceptions.xml",
+              "RelativeDocumentMoniker": "WpfApp1\\Logging\\exceptions.xml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Logging\\exceptions.xml",
+              "RelativeToolTip": "WpfApp1\\Logging\\exceptions.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T19:31:04.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\Seba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\Seba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T10:09:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICloneable.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Utils\\ICloneable.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Utils\\ICloneable.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Utils\\ICloneable.cs",
+              "RelativeToolTip": "WpfApp1\\Utils\\ICloneable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:19:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Extentions\\Extentions.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Extentions\\Extentions.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Extentions\\Extentions.cs",
+              "RelativeToolTip": "WpfApp1\\Extentions\\Extentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:16:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessageRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Messages\\MessageRequestsController.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Messages\\MessageRequestsController.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Messages\\MessageRequestsController.cs",
+              "RelativeToolTip": "WpfApp1\\Messages\\MessageRequestsController.cs",
+              "ViewState": "AgIAAD0CAAAAAAAAAAAawFACAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:48:38.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\AppData.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AppData.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\AppData.cs",
+              "RelativeToolTip": "WpfApp1\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:01:02.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\50c53aa0685c1d0af3c6de513ca5769e82d30ebf\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50c53aa0685c1d0af3c6de513ca5769e82d30ebf\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "ToolTip": "C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\50c53aa0685c1d0af3c6de513ca5769e82d30ebf\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50c53aa0685c1d0af3c6de513ca5769e82d30ebf\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:04:41.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Messages\\DataMessages.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Messages\\DataMessages.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Messages\\DataMessages.cs",
+              "RelativeToolTip": "WpfApp1\\Messages\\DataMessages.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:31:17.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\8ad016e10f775db05eb4ade9bbc053c2db692927\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8ad016e10f775db05eb4ade9bbc053c2db692927\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "ToolTip": "C:\\Users\\Seba\\AppData\\Local\\Temp\\.vsdbgsrc\\8ad016e10f775db05eb4ade9bbc053c2db692927\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8ad016e10f775db05eb4ade9bbc053c2db692927\\GitControl.ViewModel.Dialogs.AddLocalRepositoryModel.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:25:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GitControl.csproj",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\GitControl.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\GitControl.csproj",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\GitControl.csproj",
+              "RelativeToolTip": "WpfApp1\\GitControl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T12:42:39.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverviewView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\OverviewView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\OverviewView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\OverviewView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\OverviewView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T18:34:34.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T20:09:53.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GitControlDialogs.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\GitControlDialogs.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\GitControlDialogs.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\GitControlDialogs.cs",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\GitControlDialogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:56:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowModel.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainWindowModel.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\MainWindowModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwIQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:09:02.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:04:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T20:04:17.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddExistingRepositoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T15:26:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoriesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\RepositoriesModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\RepositoriesModel.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\RepositoriesModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\RepositoriesModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA3wB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:18:26.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddExistingRepositoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\AddExistingRepositoryModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Dialogs\\AddExistingRepositoryModel.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\AddExistingRepositoryModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Dialogs\\AddExistingRepositoryModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:26:50.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GitFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\GitFeature.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\GitFeature.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\GitFeature.cs",
+              "RelativeToolTip": "WpfApp1\\GitFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:50:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddLocalRepositoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\AddLocalRepositoryModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Dialogs\\AddLocalRepositoryModel.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\AddLocalRepositoryModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Dialogs\\AddLocalRepositoryModel.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwM0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:25:50.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CloneRemoteRepositoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\CloneRemoteRepositoryModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Dialogs\\CloneRemoteRepositoryModel.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\ViewModel\\Dialogs\\CloneRemoteRepositoryModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Dialogs\\CloneRemoteRepositoryModel.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAmwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:27:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CloneRemoteRepositoryView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:56:55.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddExistingRepositoryView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\AddExistingRepositoryView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:50:47.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BranchesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\BranchesView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\BranchesView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\BranchesView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\BranchesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T18:01:05.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoriesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\RepositoriesView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\RepositoriesView.xaml.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\RepositoriesView.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\View\\RepositoriesView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:11:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CloneRemoteRepositoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\CloneRemoteRepositoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T15:26:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoriesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\RepositoriesView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\RepositoriesView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\RepositoriesView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\RepositoriesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T20:09:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddLocalRepositoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddLocalRepositoryView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\Dialogs\\AddLocalRepositoryView.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\View\\Dialogs\\AddLocalRepositoryView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\Dialogs\\AddLocalRepositoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T15:25:11.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml",
+              "RelativeToolTip": "WpfApp1\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T16:12:26.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Config\\Config.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Config\\Config.cs",
+              "ToolTip": "C:\\Users\\Seba\\source\\repos\\WpfApp1\\WpfApp1\\Config\\Config.cs",
+              "RelativeToolTip": "WpfApp1\\Config\\Config.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:18:30.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

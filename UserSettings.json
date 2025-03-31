@@ -1,0 +1,14 @@
+{
+  "userProfiles": [
+    {
+      "NetId": "pjtf85",
+      "repositories": [
+        {
+          "active": true,
+          "Name": "Test",
+          "Path": "TestPath"
+        }
+      ]
+    }
+  ]
+}
